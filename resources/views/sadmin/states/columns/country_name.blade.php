@@ -1,2 +1,0 @@
-
-{{$row->country->name}}
