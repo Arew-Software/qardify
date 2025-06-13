@@ -1,1 +1,0 @@
-{{$row->type_name}}
